@@ -1,5 +1,5 @@
 # Flappy-Bird
-O jogo Flappy Bird feito utilizando CSS e Javascript
+Jogo Flappy Bird utilizando HTML, CSS e Javascript
 
-Link para jogar / visualizar 
+Hospedagem:
 https://flappy-cacau.vercel.app/
